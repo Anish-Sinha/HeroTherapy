@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SkythianCat/Glowing_Forest/DEMO/Daytime.unity
+  isLoaded: 1
+  isActive: 1
